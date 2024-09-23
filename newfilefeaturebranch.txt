@@ -1,2 +1,3 @@
 This is new featuer branch 
-featuer branch 
+new feature1
+new feature2
